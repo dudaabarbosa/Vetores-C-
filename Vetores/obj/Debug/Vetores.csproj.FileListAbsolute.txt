@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Downloads\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\Tecnico\Downloads\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\Tecnico\Downloads\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.pdb
