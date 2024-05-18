@@ -5,3 +5,10 @@ C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyRefe
 C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
 C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.exe
 C:\Users\Tecnico\Downloads\Vetores\Vetores\obj\Debug\Vetores.pdb
+C:\Users\nicole\Downloads\Vetores-C-\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\nicole\Downloads\Vetores-C-\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\nicole\Downloads\Vetores-C-\Vetores\obj\Debug\Vetores.exe
+C:\Users\nicole\Downloads\Vetores-C-\Vetores\obj\Debug\Vetores.pdb
+C:\Users\nicole\Downloads\Vetores-C-\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\nicole\Downloads\Vetores-C-\Vetores\bin\Debug\Vetores.exe
+C:\Users\nicole\Downloads\Vetores-C-\Vetores\bin\Debug\Vetores.pdb
