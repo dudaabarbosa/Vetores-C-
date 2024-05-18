@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nicole\\Downloads\\Vetores-C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7A15197-876D-4037-9B44-C16425A7C71B}|Vetores\\Vetores.csproj|c:\\users\\nicole\\downloads\\vetores-c-\\vetores\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A15197-876D-4037-9B44-C16425A7C71B}|Vetores\\Vetores.csproj|solutionrelative:vetores\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7A15197-876D-4037-9B44-C16425A7C71B}|Vetores\\Vetores.csproj|C:\\Users\\nicole\\Downloads\\Vetores-C-\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A15197-876D-4037-9B44-C16425A7C71B}|Vetores\\Vetores.csproj|solutionrelative:vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A15197-876D-4037-9B44-C16425A7C71B}|Vetores\\Vetores.csproj|c:\\users\\nicole\\downloads\\vetores-c-\\vetores\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A15197-876D-4037-9B44-C16425A7C71B}|Vetores\\Vetores.csproj|solutionrelative:vetores\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicole\\Downloads\\Vetores-C-\\Vetores\\Program.cs",
               "RelativeDocumentMoniker": "Vetores\\Program.cs",
               "ToolTip": "C:\\Users\\nicole\\Downloads\\Vetores-C-\\Vetores\\Program.cs",
               "RelativeToolTip": "Vetores\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAgwDIAAAAsAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwEoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T19:41:46.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\nicole\\Downloads\\Vetores-C-\\Vetores\\Cliente.cs",
               "RelativeDocumentMoniker": "Vetores\\Cliente.cs",
               "ToolTip": "C:\\Users\\nicole\\Downloads\\Vetores-C-\\Vetores\\Cliente.cs",
               "RelativeToolTip": "Vetores\\Cliente.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAAZAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T19:50:42.19Z",
               "EditorCaption": ""
