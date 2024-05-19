@@ -35,7 +35,7 @@ namespace Vetores
                          Console.WriteLine("\n Cadastro \n");
                          novoCliente.Cadastrar();
                          Console.WriteLine("\n Confirme os dados abaixo: \n");
-                         novoCliente.MostrarDados();
+                         novoCliente.MostrarDadosPessoa();
                          Console.WriteLine("\n Os dados estão corretos S/N \n");
                          string resposta = Console.ReadLine();
 
@@ -47,7 +47,7 @@ namespace Vetores
                          {
                              Console.WriteLine("\n Faça o cadastro novamente\n");
                              novoCliente.Cadastrar();
-                             novoCliente.MostrarDados();
+                             novoCliente.MostrarDadosPessoa();
                              Console.WriteLine("\n Os dados estão corretos S/N\n");
                              Console.ReadLine();
                              Console.WriteLine("\n Cadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");
@@ -58,7 +58,7 @@ namespace Vetores
                         Console.WriteLine("\n Cadastro Prioridade\n");
                         novoCliente.Prioridade();
                         Console.WriteLine("\nConfirme os dados abaixo:\n");
-                        novoCliente.MostrarDados();
+                        novoCliente.MostrarDadosPrioridade();
                         Console.WriteLine("\n Os dados estão corretos S/N\n");
                         resposta = Console.ReadLine();
 
@@ -70,7 +70,7 @@ namespace Vetores
                         {
                             Console.WriteLine("\n Faça o cadastro novamente\n");
                             novoCliente.Prioridade();
-                            novoCliente.MostrarDados();
+                            novoCliente.MostrarDadosPrioridade();
                             Console.WriteLine("\n Os dados estão corretos S/N\n");
                             Console.ReadLine();
                             Console.WriteLine("\n Cadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");

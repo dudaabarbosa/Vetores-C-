@@ -51,7 +51,26 @@ namespace Vetores
             }
         }
 
-       
+        public void MostrarDadosPessoa()
+        {
+            Console.WriteLine("Nome: " + pessoa.nome);
+            Console.WriteLine("Data de nascimento: " + pessoa.dataDeNascimento);
+            Console.WriteLine("Email: " + pessoa.email);
+            Console.WriteLine("Telefone: " + pessoa.telefone);
+            Console.WriteLine("Endereço: " + pessoa.endereço);
+        }
+
+        public void MostrarDadosPrioridade()
+        {
+            Console.WriteLine("Nome: " + cli_prioridade.nome);
+            Console.WriteLine("Data de nascimento: " + cli_prioridade.dataDeNascimento);
+            Console.WriteLine("Email: " + cli_prioridade.email);
+            Console.WriteLine("Telefone: " + cli_prioridade.telefone);
+            Console.WriteLine("Endereço: " + cli_prioridade.endereço);
+        }
+
+
+
         public void MostrarDados()
         {
             Console.WriteLine("Nome: " + this.nome);
