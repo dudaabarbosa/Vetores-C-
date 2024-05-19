@@ -32,30 +32,49 @@ namespace Vetores
                  switch (opcao)
                  {
                      case "1":
+                         Console.WriteLine("\n Cadastro \n");
                          novoCliente.Cadastrar();
-                         Console.WriteLine("\nConfirme os dados abaixo:\n");
-                         novoCliente.MostrarDados();
-                         Console.WriteLine("\n Os dados estão corretos S/N\n");
+                         Console.WriteLine("\n Confirme os dados abaixo: \n");
+                         novoCliente.MostrarDadosPessoa();
+                         Console.WriteLine("\n Os dados estão corretos S/N \n");
                          string resposta = Console.ReadLine();
 
                          if (resposta.ToUpper() == "S")
                          {
-                             Console.WriteLine("\nCadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");
+                             Console.WriteLine("\n Cadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");
                          }
                          else
                          {
-                             Console.WriteLine("\nFaça o cadastro novamente\n");
+                             Console.WriteLine("\n Faça o cadastro novamente\n");
                              novoCliente.Cadastrar();
-                             novoCliente.MostrarDados();
+                             novoCliente.MostrarDadosPessoa();
                              Console.WriteLine("\n Os dados estão corretos S/N\n");
                              Console.ReadLine();
-                             Console.WriteLine("\nCadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");
+                             Console.WriteLine("\n Cadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");
                          }
                          break;
 
                      case "2":
+                        Console.WriteLine("\n Cadastro Prioridade\n");
+                        novoCliente.Prioridade();
+                        Console.WriteLine("\nConfirme os dados abaixo:\n");
+                        novoCliente.MostrarDadosPrioridade();
+                        Console.WriteLine("\n Os dados estão corretos S/N\n");
+                        resposta = Console.ReadLine();
 
-                        novoCliente.FilaPrioridade();
+                        if (resposta.ToUpper() == "S")
+                        {
+                            Console.WriteLine("\nCadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");
+                        }
+                        else
+                        {
+                            Console.WriteLine("\n Faça o cadastro novamente\n");
+                            novoCliente.Prioridade();
+                            novoCliente.MostrarDadosPrioridade();
+                            Console.WriteLine("\n Os dados estão corretos S/N\n");
+                            Console.ReadLine();
+                            Console.WriteLine("\n Cadastro feito com sucesso!!\n Cliente adicionado a fila de espera\n");
+                        }
                         break;
 
                      case "3":
@@ -72,7 +91,7 @@ namespace Vetores
                          break;
 
                      default:
-                         Console.WriteLine("\nOpção inválida! Tente novamente.");
+                         Console.WriteLine("\n Opção inválida! Tente novamente.");
                          break;
 
                  }
